@@ -1,4 +1,4 @@
-# 🌞 Arduino Solar Tracking System
+# 🌞 AAME X Solar Tracking System
 
 An automated dual-axis **solar tracker** built using Arduino, servo motors, and LDR sensors. This system intelligently adjusts its angle to follow the sun’s position, maximizing solar energy capture.
 
