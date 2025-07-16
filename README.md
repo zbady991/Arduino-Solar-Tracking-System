@@ -26,7 +26,7 @@ An automated dual-axis **solar tracker** built using Arduino, servo motors, and 
 
 ## 📸 Circuit Diagram
 
-![Solar Tracking System Wiring](images/solar-tracker-wiring.png)
+![Solar Tracking System Wiring](solar-tracker-wiring.png)
 ---
 
 ## 💡 Code Overview
