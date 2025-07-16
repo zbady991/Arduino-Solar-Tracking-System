@@ -32,7 +32,7 @@ An automated dual-axis **solar tracker** built using Arduino, servo motors, and 
 
 These are custom-designed 3D-printed parts used to assemble the solar tracker frame:
 
-![3D Printed Parts](images/3d-printed-parts.png)
+![3D Printed Parts](3d-printed-parts.png)
 
 ## 💡 Code Overview
 
